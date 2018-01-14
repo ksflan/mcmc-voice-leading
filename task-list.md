@@ -1,6 +1,6 @@
 ### To-Do
 
--[] Sample new chorale
--[] Score chorale
---[] Rule list
--[] Accept/Reject function
+-[ ] Sample new chorale
+-[ ] Score chorale
+-[ ] Rule list
+-[ ] Accept/Reject function
